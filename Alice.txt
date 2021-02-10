@@ -1,3 +1,7 @@
 Hi! I'm Alice. I'm a file someone added to this repository a while ago.
 second line of text
+<<<<<<< HEAD
 edit for conflict section (local)
+=======
+remote edit
+>>>>>>> 6adc1e2ff0d9c3cc41521979230969e6a852d34f
